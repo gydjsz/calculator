@@ -1,5 +1,9 @@
 package com.ctgu.calculator;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -10,16 +14,18 @@ public class Calculator {
     private List<String> symbol;
     private int sum;
 
-    public void output(){
+    public String output() {
+        String s = "";
         for(int i = 0; i < num.size() + symbol.size(); ++i){
             if(i % 2 == 0){
-                System.out.print(num.get(i / 2));
+                s += num.get(i / 2) + " ";
             }
             else{
-                System.out.print(symbol.get((i - 1) / 2));
+                s += symbol.get((i - 1) / 2) + " ";
             }
         }
-        System.out.println("=" + sum);
+        s += "= " + sum + "\n";
+        return s;
     }
 
     /**
