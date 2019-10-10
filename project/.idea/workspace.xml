@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e7a52c4-77e3-48a9-9be6-847112c40bc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculator/com/ctgu/calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/calculator/com/ctgu/calculator/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculator/com/ctgu/calculator/CreatePractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/calculator/com/ctgu/calculator/CreatePractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ctgu/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ctgu/calculator/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ctgu/calculator/CreatePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ctgu/calculator/CreatePractice.java" afterDir="false" />
     </list>
@@ -19,38 +17,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ctgu/calculator/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ctgu/calculator/CreatePractice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,6 +55,32 @@
             <path>
               <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,19 +143,27 @@
       <option name="presentableId" value="Default" />
       <updated>1570697570076</updated>
       <workItem from="1570697573441" duration="5265000" />
-      <workItem from="1570711556468" duration="237000" />
+      <workItem from="1570711556468" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5530000" />
+    <option name="totallyTimeSpent" value="5833000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49774775" visible="true" weight="0.20021528" />
-      <window_info id="Structure" order="1" sideWeight="0.5022523" side_tool="true" visible="true" weight="0.20021528" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497479" visible="true" weight="0.20021528" />
+      <window_info id="Structure" order="1" sideWeight="0.50252104" side_tool="true" weight="0.20021528" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -196,29 +197,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/ctgu/calculator/CreatePractice.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ctgu/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -226,10 +205,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/subject.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/calculator/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="182" column="23" selection-start-line="182" selection-start-column="23" selection-end-line="182" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ctgu/calculator/CreatePractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="185">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
